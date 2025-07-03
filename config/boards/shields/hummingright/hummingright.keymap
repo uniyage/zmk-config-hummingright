@@ -11,7 +11,7 @@
                 &kp P       &kp F   &kp O       &kp U   &kp SQT
                 &kp Y       &kp C   &kp A       &kp E   &kp I
                             &kp G   &kp COMMA   &kp DOT    
-                &kp LSHFT   &mo 1
+                &kp SPACE   &mo 1
             >;
         };
 
